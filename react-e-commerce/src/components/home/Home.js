@@ -35,7 +35,7 @@ function Home() {
                         <div className="row">
                             <div className="col-sm-4">
                                 <div className="logo pull-left">
-                                    <a href="index.html"><img src="images/home/logo.png" alt="" /></a>
+                                    <a href="index.html"><img src="/assets/images/home/logo.png" alt="" /></a>
                                 </div>
                                 <div className="btn-group pull-right">
                                     <div className="btn-group">
@@ -141,8 +141,8 @@ function Home() {
                                         <button type="button" className="btn btn-default get">Get it now</button>
                                     </div>
                                     <div className="col-sm-6">
-                                        <img src="images/home/girl1.jpg" className="girl img-responsive" alt="" />
-                                        <img src="images/home/pricing.png"  className="pricing" alt="" />
+                                        <img src="/assets/images/home/girl1.jpg" className="girl img-responsive" alt="" />
+                                        <img src="/assets/images/home/pricing.png"  className="pricing" alt="" />
                                     </div>
                                 </div>
                                 <div className="item">
@@ -153,8 +153,8 @@ function Home() {
                                         <button type="button" className="btn btn-default get">Get it now</button>
                                     </div>
                                     <div className="col-sm-6">
-                                        <img src="images/home/girl2.jpg" className="girl img-responsive" alt="" />
-                                        <img src="images/home/pricing.png"  className="pricing" alt="" />
+                                        <img src="/assets/images/home/girl2.jpg" className="girl img-responsive" alt="" />
+                                        <img src="/assets/images/home/pricing.png"  className="pricing" alt="" />
                                     </div>
                                 </div>
                                 
@@ -166,8 +166,8 @@ function Home() {
                                         <button type="button" className="btn btn-default get">Get it now</button>
                                     </div>
                                     <div className="col-sm-6">
-                                        <img src="images/home/girl3.jpg" className="girl img-responsive" alt="" />
-                                        <img src="images/home/pricing.png" className="pricing" alt="" />
+                                        <img src="/assets/images/home/girl3.jpg" className="girl img-responsive" alt="" />
+                                        <img src="/assets/images/home/pricing.png" className="pricing" alt="" />
                                     </div>
                                 </div>
                                 
@@ -323,7 +323,7 @@ function Home() {
                             </div>
                             
                             <div className="shipping text-center">
-                                <img src="images/home/shipping.jpg" alt="" />
+                                <img src="/assets/images/home/shipping.jpg" alt="" />
                             </div>
                         
                         </div>
@@ -336,7 +336,7 @@ function Home() {
                                 <div className="product-image-wrapper">
                                     <div className="single-products">
                                             <div className="productinfo text-center">
-                                                <img src="images/home/product1.jpg" alt="" />
+                                                <img src="/assets/images/home/product1.jpg" alt="" />
                                                 <h2>$56</h2>
                                                 <p>Easy Polo Black Edition</p>
                                                 <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -361,7 +361,7 @@ function Home() {
                                 <div className="product-image-wrapper">
                                     <div className="single-products">
                                         <div className="productinfo text-center">
-                                            <img src="images/home/product2.jpg" alt="" />
+                                            <img src="/assets/images/home/product2.jpg" alt="" />
                                             <h2>$56</h2>
                                             <p>Easy Polo Black Edition</p>
                                             <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -386,7 +386,7 @@ function Home() {
                                 <div className="product-image-wrapper">
                                     <div className="single-products">
                                         <div className="productinfo text-center">
-                                            <img src="images/home/product3.jpg" alt="" />
+                                            <img src="/assets/images/home/product3.jpg" alt="" />
                                             <h2>$56</h2>
                                             <p>Easy Polo Black Edition</p>
                                             <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -411,7 +411,7 @@ function Home() {
                                 <div className="product-image-wrapper">
                                     <div className="single-products">
                                         <div className="productinfo text-center">
-                                            <img src="images/home/product4.jpg" alt="" />
+                                            <img src="/assets/images/home/product4.jpg" alt="" />
                                             <h2>$56</h2>
                                             <p>Easy Polo Black Edition</p>
                                             <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -423,7 +423,7 @@ function Home() {
                                                 <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
                                             </div>
                                         </div>
-                                        <img src="images/home/new.png" className="new" alt="" />
+                                        <img src="/assets/images/home/new.png" className="new" alt="" />
                                     </div>
                                     <div className="choose">
                                         <ul className="nav nav-pills nav-justified">
@@ -437,7 +437,7 @@ function Home() {
                                 <div className="product-image-wrapper">
                                     <div className="single-products">
                                         <div className="productinfo text-center">
-                                            <img src="images/home/product5.jpg" alt="" />
+                                            <img src="/assets/images/home/product5.jpg" alt="" />
                                             <h2>$56</h2>
                                             <p>Easy Polo Black Edition</p>
                                             <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -449,7 +449,7 @@ function Home() {
                                                 <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
                                             </div>
                                         </div>
-                                        <img src="images/home/sale.png" className="new" alt="" />
+                                        <img src="/assets/images/home/sale.png" className="new" alt="" />
                                     </div>
                                     <div className="choose">
                                         <ul className="nav nav-pills nav-justified">
@@ -463,7 +463,7 @@ function Home() {
                                 <div className="product-image-wrapper">
                                     <div className="single-products">
                                         <div className="productinfo text-center">
-                                            <img src="images/home/product6.jpg" alt="" />
+                                            <img src="/assets/images/home/product6.jpg" alt="" />
                                             <h2>$56</h2>
                                             <p>Easy Polo Black Edition</p>
                                             <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -503,7 +503,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery1.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery1.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -516,7 +516,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery2.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery2.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -529,7 +529,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery3.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery3.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -542,7 +542,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery4.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery4.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -558,7 +558,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery4.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery4.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -571,7 +571,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery3.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery3.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -584,7 +584,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery2.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery2.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -597,7 +597,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery1.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery1.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -613,7 +613,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery3.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery3.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -626,7 +626,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery4.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery4.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -639,7 +639,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery1.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery1.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -652,7 +652,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery2.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery2.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -668,7 +668,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery1.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery1.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -681,7 +681,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery2.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery2.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -694,7 +694,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery3.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery3.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -707,7 +707,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery4.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery4.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -723,7 +723,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery2.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery2.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -736,7 +736,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery4.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery4.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -749,7 +749,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery3.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery3.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -762,7 +762,7 @@ function Home() {
                                         <div className="product-image-wrapper">
                                             <div className="single-products">
                                                 <div className="productinfo text-center">
-                                                    <img src="images/home/gallery1.jpg" alt="" />
+                                                    <img src="/assets/images/home/gallery1.jpg" alt="" />
                                                     <h2>$56</h2>
                                                     <p>Easy Polo Black Edition</p>
                                                     <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -785,7 +785,7 @@ function Home() {
                                             <div className="product-image-wrapper">
                                                 <div className="single-products">
                                                     <div className="productinfo text-center">
-                                                        <img src="images/home/recommend1.jpg" alt="" />
+                                                        <img src="/assets/images/home/recommend1.jpg" alt="" />
                                                         <h2>$56</h2>
                                                         <p>Easy Polo Black Edition</p>
                                                         <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -798,7 +798,7 @@ function Home() {
                                             <div className="product-image-wrapper">
                                                 <div className="single-products">
                                                     <div className="productinfo text-center">
-                                                        <img src="images/home/recommend2.jpg" alt="" />
+                                                        <img src="/assets/images/home/recommend2.jpg" alt="" />
                                                         <h2>$56</h2>
                                                         <p>Easy Polo Black Edition</p>
                                                         <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -811,7 +811,7 @@ function Home() {
                                             <div className="product-image-wrapper">
                                                 <div className="single-products">
                                                     <div className="productinfo text-center">
-                                                        <img src="images/home/recommend3.jpg" alt="" />
+                                                        <img src="/assets/images/home/recommend3.jpg" alt="" />
                                                         <h2>$56</h2>
                                                         <p>Easy Polo Black Edition</p>
                                                         <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -826,7 +826,7 @@ function Home() {
                                             <div className="product-image-wrapper">
                                                 <div className="single-products">
                                                     <div className="productinfo text-center">
-                                                        <img src="images/home/recommend1.jpg" alt="" />
+                                                        <img src="/assets/images/home/recommend1.jpg" alt="" />
                                                         <h2>$56</h2>
                                                         <p>Easy Polo Black Edition</p>
                                                         <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -839,7 +839,7 @@ function Home() {
                                             <div className="product-image-wrapper">
                                                 <div className="single-products">
                                                     <div className="productinfo text-center">
-                                                        <img src="images/home/recommend2.jpg" alt="" />
+                                                        <img src="/assets/images/home/recommend2.jpg" alt="" />
                                                         <h2>$56</h2>
                                                         <p>Easy Polo Black Edition</p>
                                                         <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -852,7 +852,7 @@ function Home() {
                                             <div className="product-image-wrapper">
                                                 <div className="single-products">
                                                     <div className="productinfo text-center">
-                                                        <img src="images/home/recommend3.jpg" alt="" />
+                                                        <img src="/assets/images/home/recommend3.jpg" alt="" />
                                                         <h2>$56</h2>
                                                         <p>Easy Polo Black Edition</p>
                                                         <a href="#" className="btn btn-default add-to-cart"><i className="fa fa-shopping-cart"></i>Add to cart</a>
@@ -892,7 +892,7 @@ function Home() {
                                 <div className="video-gallery text-center">
                                     <a href="#">
                                         <div className="iframe-img">
-                                            <img src="images/home/iframe1.png" alt="" />
+                                            <img src="/assets/images/home/iframe1.png" alt="" />
                                         </div>
                                         <div className="overlay-icon">
                                             <i className="fa fa-play-circle-o"></i>
@@ -907,7 +907,7 @@ function Home() {
                                 <div className="video-gallery text-center">
                                     <a href="#">
                                         <div className="iframe-img">
-                                            <img src="images/home/iframe2.png" alt="" />
+                                            <img src="/assets/images/home/iframe2.png" alt="" />
                                         </div>
                                         <div className="overlay-icon">
                                             <i className="fa fa-play-circle-o"></i>
@@ -922,7 +922,7 @@ function Home() {
                                 <div className="video-gallery text-center">
                                     <a href="#">
                                         <div className="iframe-img">
-                                            <img src="images/home/iframe3.png" alt="" />
+                                            <img src="/assets/images/home/iframe3.png" alt="" />
                                         </div>
                                         <div className="overlay-icon">
                                             <i className="fa fa-play-circle-o"></i>
@@ -937,7 +937,7 @@ function Home() {
                                 <div className="video-gallery text-center">
                                     <a href="#">
                                         <div className="iframe-img">
-                                            <img src="images/home/iframe4.png" alt="" />
+                                            <img src="/assets/images/home/iframe4.png" alt="" />
                                         </div>
                                         <div className="overlay-icon">
                                             <i className="fa fa-play-circle-o"></i>
@@ -950,7 +950,7 @@ function Home() {
                         </div>
                         <div className="col-sm-3">
                             <div className="address">
-                                <img src="images/home/map.png" alt="" />
+                                <img src="/assets/images/home/map.png" alt="" />
                                 <p>505 S Atlantic Ave Virginia Beach, VA(Virginia)</p>
                             </div>
                         </div>
